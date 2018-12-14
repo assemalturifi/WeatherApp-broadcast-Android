@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeatherProdcast</string>
+    <string name="upload_location">Location</string>
+    <string name="click_here_to_change_city">Click Here to Change City</string>
+    <string name="na">NA</string>
+    <string name="this_is_the_weather_symbol">This is the weather symbol</string>
+
+</resources>
